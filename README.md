@@ -9,4 +9,4 @@ Here are some ideas to get you Started-->
 - Pursuing Btech in Computer Science and Engineering from
  APJ Abdul Kalam Kerala Technical University.
 - Studying in St.Joseph's College of Engineering and Technology, Palai 
-```
+

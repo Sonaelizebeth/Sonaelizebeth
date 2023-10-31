@@ -6,7 +6,7 @@
 
 Here are some ideas to get you Started-->
 - I'm Sona Elizebeth Shaji 😊,
-     a Front-end Developer👩‍💻
+     a Dot NET Developer👩‍💻
 - Btech Computer Science and Engineering graduate from
  APJ Abdul Kalam Kerala Technical University.
 - Studied in St.Joseph's College of Engineering and Technology, Palai (2019-2023)
